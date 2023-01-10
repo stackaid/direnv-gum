@@ -1,0 +1,9 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  vhs:
+    cmds:
+      - vhs < ./tape/simple.tape
+      - vhs < ./tape/supercool.tape
