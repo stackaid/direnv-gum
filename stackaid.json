@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "dependencies": {
+    {"source": "https://github.com/direnv/direnv"},
+    {"source": "https://github.com/charmbracelet/gum"},
+    {"source": "https://github.com/go-task/task"},
+    {"source": "https://github.com/charmbracelet/vhs"},
+    {"source": "https://github.com/carbon-app/carbon"}
+  }
+}
