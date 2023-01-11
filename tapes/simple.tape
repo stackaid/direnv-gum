@@ -1,4 +1,4 @@
-Output simple.gif
+Output simple.webm
 Set Shell zsh
 
 Sleep 2.5s

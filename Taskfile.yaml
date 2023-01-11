@@ -5,5 +5,5 @@ version: '3'
 tasks:
   vhs:
     cmds:
-      - vhs < ./tape/simple.tape
-      - vhs < ./tape/supercool.tape
+      - vhs < ./tapes/simple.tape
+      - vhs < ./tapes/supercool.tape

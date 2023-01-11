@@ -1,4 +1,4 @@
-Output supercool.gif
+Output supercool.webm
 Set Shell zsh
 
 Sleep 1s
