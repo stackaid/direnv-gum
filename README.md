@@ -1,6 +1,6 @@
 # direnv-gum
 
-Demonstrate using gum with direnv to manage multiple environment variables in a project. Checkout the blog post for more details:
+Demonstrate using [gum](https://github.com/charmbracelet/gum) with [direnv](https://github.com/direnv/direnv) to manage multiple environment variables in a project. Checkout the blog post for more details:
 
 [https://stackaid.us/blog/direnv-for-multiple-environments/](https://stackaid.us/blog/direnv-for-multiple-environments/)
 
